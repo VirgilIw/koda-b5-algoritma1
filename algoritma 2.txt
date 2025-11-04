@@ -1,0 +1,8 @@
+1. mulai
+2. rumus luas = pi kali r kali r
+3. rumus keliling = 2 kali pi kali r
+4. menentukan nilai r = misalnya 14
+5. membuat nilai pi = 22/7 atau 3.14
+6. menghitung luas lingkaran, 22/3 kali 14 kali 14 = 616
+7. menghitung keliling, 2 kali 22/7 kali 14 = 88
+8. selesai
