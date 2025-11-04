@@ -1,0 +1,7 @@
+1. mulai
+2. siapkan 3 gelas, 1 untuk teh 1 kopi dan 1 gelas kosong
+3. pindahkan isi gelas teh ke gelas kosong
+4. pindahkan isi kopi ke gelas teh yang sekarang lagi kosong
+5. pindahkan isi teh yang sebelumnya gelas kosong ke gelas kopi yang sekarang lagi kosong
+6. isi dari kopi sudah di gelas teh dan isi dari gelas teh sudah di gelas kopi
+7. selesai
