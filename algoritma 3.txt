@@ -1,0 +1,5 @@
+1. mulai
+2. tentukan variabel x
+3. jika sisa hasil bagi antara x dengan bilangan lain = 0, maka x genap
+4, jika x hasil bagi != 0, maka x ganjil
+5. selesai
